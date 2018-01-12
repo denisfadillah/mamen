@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Admin Panel - User Management using CodeIgniter
 **Admin Panel - User Management Demo using CodeIgniter + AdminLTE Bootstrap Theme**
 
@@ -76,3 +77,6 @@ How to get over this issue?
 **ISSUE # 2 : Call to undefined function password_verify() :**
 
 Solution is here : [Call to undefined function password_verify()](https://github.com/kishor10d/Admin-Panel-User-Management-using-CodeIgniter/issues/1)
+=======
+# mamen
+>>>>>>> 905b6819200592db91a6e80773887ff8ba480b37
